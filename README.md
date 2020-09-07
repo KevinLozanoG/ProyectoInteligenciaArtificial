@@ -11,6 +11,9 @@ NASA JPL Asteroid Dataset.
 Modelo: <br>
 Linear SVM, Decision Tree Classifier, AdaBoost, KMeans.
 
+URL vídeo: <br>
+https://youtu.be/M4skpd4w0mE
+
 Estudiantes: <br>
 -2172016 - Kevin Javier Lozano Galvis <br>
 -2170688 - Brayan Rofoldo Barajas Ochoa
