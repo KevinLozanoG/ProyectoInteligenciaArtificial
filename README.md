@@ -1,2 +1,2 @@
-# Proyecto Inteligencia Artificial 1
+# Proyecto Inteligencia Artificial I
 Identificación de Asteroides Potencialmente Peligrosos
