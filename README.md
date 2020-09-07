@@ -1,2 +1,23 @@
 # Proyecto Inteligencia Artificial I
-Identificación de Asteroides Potencialmente Peligrosos
+Título: <br>
+Identificación de Asteroides Potencialmente Peligrosos 
+
+Objetivo <br>
+Identificar asteroides potencialmente peligrosos usando un enfoque de inteligencia artificial. 
+
+Dataset: <br>
+NASA JPL Asteroid Dataset.
+
+Modelo: <br>
+Linear SVM, Decision Tree Classifier, AdaBoost, KMeans.
+
+URL vídeo: <br>
+https://youtu.be/M4skpd4w0mE
+
+Estudiantes: <br>
+-2172016 - Kevin Javier Lozano Galvis <br>
+-2170688 - Brayan Rofoldo Barajas Ochoa
+
+
+
+
