@@ -2,7 +2,8 @@
 Título:
 Identificación de Asteroides Potencialmente Peligrosos
 
-Objetivo:
+Objetivo:\\
+Identificar asteroides potencialmente peligrosos usando un enfoque de inteligencia artificial.
 
 
 Estudiantes:
